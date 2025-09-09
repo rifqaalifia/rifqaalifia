@@ -1,224 +1,127 @@
-<!-- Profile Banner -->
+<!-- Profile Readme for Rifqa Alifia Nurmadina -->
+
+<!-- 🎨 Banner Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e9aff&height=250&section=header&text=Rifqa%20Alifia%20Nurmadina&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header banner"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Rifqa Alifia Nurmadina</h1>
 <p align="center">
   <img src="rifqa.img.jpg" alt="Rifqa Alifia Nurmadina" width="200" style="border-radius:50%;"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rifqa Alifia Nurmadina</h1>
-<h3 align="center">✨ A passionate learner who loves exploring IT, design, and making new friends ✨</h3>
+---
+
+### ✨ About Me
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E9AFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Rifqa+Alifia+Nurmadina;Passionate+about+Web+%26+App+Design;Curious+Learner+in+UI%2FUX+%26+E-Learning;Love+Travelling+%26+Art;Always+Happy+to+Make+New+Friends" alt="Typing SVG"/>
+  </a>
+</p>
+
+🌸 Passionate about **technology, creativity, and people**  
+💻 Exploring **Web & App Design, Conflict Mediation, UI/UX, E-learning**  
+🤝 Love **learning, collaborating, and making friends**  
+🌍 Excited about **Travelling and Art**  
 
 ---
 
-## 🌸 About Me  
-- 🌐 Interests: Web Design, App Design, Conflict Mediation, UI/UX, E-Learning, Travelling, Art  
-- 🎯 Always curious to learn new things about **IT & Creative Design**  
-- 🤝 Open to collaboration & meeting new people  
-- 📷 Instagram: [@qa._lifiaan](https://instagram.com/qa._lifiaan)  
-
----
-
-## ⚡ GitHub Stats  
+### 🌐 Connect with me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifqaalifia&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifqaalifia&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifqaalifia&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifqaalifia&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifqaalifia&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rifqaalifia&theme=tokyonight&utcOffset=7"/>
+  <a href="https://instagram.com/qa._lifiaan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-## 🏆 Achievements  
+### ⚡ GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifqaalifia&theme=onestar&no-frame=true&column=6" alt="trophy"/>
+  <img src="https://komarev.com/ghpvc/?username=rifqaalifia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <!-- Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub stats light"/>
+  <!-- Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="GitHub stats dark"/>
+</p>
+
+<p align="center">
+  <!-- Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqaalifia&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs light"/>
+  <!-- Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqaalifia&layout=compact&theme=tokyonight#gh-dark-mode-only" alt="Top Langs dark"/>
 </p>
 
 ---
 
-## 🚀 Tech Stack  
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,vscode,python,java" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rifqaalifia&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 📊 Activity Graph  
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqaalifia&theme=tokyo-night" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqaalifia&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🐱 Fun Corner: Cat Game 🎮  
+### 💻 Tech Stack
 <p align="center">
-  <iframe src="https://koda.nu/simple/cat/" width="400" height="500"></iframe>
-</p>  
-
-*(If GitHub doesn’t render iframe, click here 👉 [Play Cat Game](https://koda.nu/simple/cat/))*  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,nodejs,python,git,github" />
+</p>
 
 ---
 
-## ✨ Quote of the Day  
-> “Design with empathy, learn with curiosity, and connect with kindness.”  
+### 🚀 Top Projects
+- [🌐 My Portfolio Website](#)
+- [📱 Cool Mobile App](#)
+- [🎨 UI/UX Design Experiments](#)
 
 ---
 
-<p align="center">💙 Thank you for visiting my profile 💙</p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>🐱 Cat Jump Game</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: Arial, sans-serif;
-      background: linear-gradient(to top, #1e3c72, #2a5298);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      overflow: hidden;
-    }
-    .game {
-      width: 800px;
-      height: 300px;
-      background: #f0f8ff;
-      border: 5px solid #2a5298;
-      border-radius: 15px;
-      overflow: hidden;
-      position: relative;
-    }
-    #cat {
-      width: 60px;
-      height: 60px;
-      background: url("https://i.ibb.co/3kZPp74/cat.png") no-repeat center/cover;
-      position: absolute;
-      bottom: 0;
-      left: 50px;
-    }
-    #obstacle {
-      width: 50px;
-      height: 50px;
-      background: url("https://i.ibb.co/Tmfv58H/mouse.png") no-repeat center/cover;
-      position: absolute;
-      bottom: 0;
-      right: -60px;
-      animation: move 2s linear infinite;
-    }
-    @keyframes move {
-      0% { right: -60px; }
-      100% { right: 100%; }
-    }
-    .jump {
-      animation: jump 0.6s ease;
-    }
-    @keyframes jump {
-      0% { bottom: 0; }
-      50% { bottom: 120px; }
-      100% { bottom: 0; }
-    }
-    .scoreboard {
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      font-size: 20px;
-      color: #2a5298;
-      font-weight: bold;
-    }
-    .game-over {
-      display: none;
-      position: absolute;
-      top: 40%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 30px;
-      color: red;
-      font-weight: bold;
-    }
-    button {
-      margin-top: 20px;
-      padding: 10px 20px;
-      font-size: 16px;
-      background: #2a5298;
-      color: #fff;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-    }
-    button:hover {
-      background: #1e3c72;
-    }
-  </style>
-</head>
-<body>
-  <div class="game" id="game">
-    <div class="scoreboard">Score: <span id="score">0</span></div>
-    <div id="cat"></div>
-    <div id="obstacle"></div>
-    <div class="game-over" id="game-over">💀 Game Over 💀<br/><button onclick="restart()">Restart</button></div>
-  </div>
+### 🎮 Mini Game (Playable in GitHub Profile!)
+Click below and **play directly in this README** 🕹️  
 
-  <script>
-    const cat = document.getElementById("cat");
-    const obstacle = document.getElementById("obstacle");
-    const scoreElement = document.getElementById("score");
-    const gameOverElement = document.getElementById("game-over");
-    let score = 0;
-    let playing = true;
+<p align="center">
+  <a href="https://github.com/1999azzar/1999azzar#-play-the-game" target="_blank">
+    <img src="https://github.com/1999azzar/1999azzar/raw/main/resources/game.gif" alt="play game" width="400"/>
+  </a>
+</p>
 
-    document.addEventListener("keydown", function(event) {
-      if (event.code === "Space" && !cat.classList.contains("jump") && playing) {
-        jump();
-      }
-    });
+---
 
-    function jump() {
-      cat.classList.add("jump");
-      setTimeout(() => {
-        cat.classList.remove("jump");
-      }, 600);
-    }
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/rifqaalifia/rifqaalifia/blob/output/snake.svg" alt="Snake animation"/>
+</p>
 
-    let checkCollision = setInterval(() => {
-      if (!playing) return;
+---
 
-      let catTop = parseInt(window.getComputedStyle(cat).getPropertyValue("bottom"));
-      let obstacleLeft = parseInt(window.getComputedStyle(obstacle).getPropertyValue("left"));
+### 🎉 Moving Badges
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://img.shields.io/badge/Web%20Design-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/App%20Design-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UI%2FUX-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/E--Learning-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Travelling-pink?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Art-red?style=for-the-badge" />
+  </marquee>
+</p>
 
-      if (obstacleLeft > 30 && obstacleLeft < 100 && catTop <= 40) {
-        gameOver();
-      } else if (obstacleLeft < 0) {
-        score++;
-        scoreElement.textContent = score;
-      }
-    }, 50);
+---
 
-    function gameOver() {
-      playing = false;
-      obstacle.style.animationPlayState = "paused";
-      gameOverElement.style.display = "block";
-    }
+### 💡 Fun Fact
+✨ *Like stars in the night sky, I believe every line of code creates a spark that can light up the digital world.* ✨
 
-    function restart() {
-      score = 0;
-      scoreElement.textContent = score;
-      gameOverElement.style.display = "none";
-      obstacle.style.animationPlayState = "running";
-      playing = true;
-    }
-  </script>
-</body>
-</html>
+---
+
+<!-- 🎨 Banner Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e9aff&height=120&section=footer" alt="footer banner"/>
+</p>
