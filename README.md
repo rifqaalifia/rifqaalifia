@@ -1,138 +1,112 @@
-<!-- 🌈🌌 Colorful + Dark Elegant Combo Banner -->
+<!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:ff00ff,100:302b63&height=220&section=header&text=✨%20Welcome%20to%20Rifqa's%20Universe%20✨&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="rifqa.img.jpg" width="180" height="180" style="border-radius:50%" alt="Rifqa Alifia Nurmadina"/>
 </p>
 
----
-
-<h1 align="center">
-  Hi there 👋 I'm <span style="color:#00C9FF">Rifqa Alifia Nurmadina</span> 🌸
-</h1>
+<h1 align="center">🌸✨ Hi, I'm Rifqa Alifia Nurmadina ✨🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF61D8&center=true&vCenter=true&width=800&lines=💻+Web+%26+App+Designer;🎨+UI%2FUX+Enthusiast;🚀+Tech+Explorer;🌍+Traveller;🌈+Creative+Dreamer"/>
+  <i>💻 Digital Explorer | 🎨 Creative Designer | 🐾 Cat Enthusiast</i>
 </p>
 
----
-
-<!-- Profile Photo -->
 <p align="center">
-  <img src="rifqa.img.jpg" alt="Rifqa Alifia Nurmadina" width="220" style="border-radius:50%; box-shadow:0 0 40px #ff00ff, 0 0 60px #00c9ff;"/>
-</p>
-
----
-
-## 🌟 About Me
-🌈 Curious & creative soul who loves **exploring IT & design**  
-🌌 Friendly dreamer who believes in **sharing knowledge & growing together**  
-🚀 Motto: *"Shine in colors, glow in the dark."*  
-
----
-
-## 🎨 Interests
-- 💻 Web & App Design  
-- 🎭 Conflict Mediation  
-- 🎨 UI/UX & E-learning  
-- ✈️ Travelling & Exploration  
-- 🎶 Art & Creativity  
-
----
-
-## 📬 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/qa._lifiaan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23ff00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/rifqaalifia">
+    <img src="https://img.shields.io/badge/Open%20for-Collaboration-ff66b2?style=for-the-badge&logo=handshake&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/qa._lifiaan">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-Instagram-ff99cc?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifqaalifia&style=for-the-badge&color=00C9FF" alt="Profile Views"/>
-</p>
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40"> About Me  
+Hi! I'm Rifqa 👋  
+- 💻 Passionate about **Web & App Design, UI/UX, Conflict Mediation, E-learning, Travelling & Art**  
+- 🌱 Always curious to learn new IT skills  
+- 🌸 Loves connecting with people and making friends  
+- 🐈 Cats make everything better 🐾  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifqaalifia&theme=radical&hide_border=true"/>
-</p>
+📸 Instagram: [@qa._lifiaan](https://instagram.com/qa._lifiaan)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqaalifia&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
-</p>
+---
 
+## <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="40"> Tech Stack
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifqaalifia&theme=radical" alt="Top Languages by Repo"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifqaalifia&theme=radical" alt="Top Languages by Commit"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqaalifia&theme=react-dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifqaalifia&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,nodejs,python,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="40"> GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode,python,java,php,mysql&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=tokyonight&title_color=ff99cc&icon_color=ff66b2&hide_border=false" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifqaalifia&theme=tokyonight&ring=ff99cc&fire=ff66b2&currStreakLabel=ffffff" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqaalifia&layout=compact&theme=tokyonight&title_color=ff99cc&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🚀 Projects
-- 🎨 [Creative Web Design](#)  
-- 📱 [UI/UX Mobile App](#)  
-- 📚 [E-learning Prototype](#)  
-
----
-
-## 🎮 Fun Zone
+## <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="40"> Achievements & Trophies
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FF00&center=true&width=600&lines=🎮+Play+Snake+on+my+Profile!+🐍"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafnixg/rafnixg/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rifqaalifia&theme=algolia&no-frame=false&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 🎶 Music Vibes
+## <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="40"> Activity Graph
 <p align="center">
-  <!-- Ganti link ini dengan playlist Spotify kamu -->
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqaalifia&bg_color=1a1b27&color=ff99cc&line=ff66b2&point=ffffff&area=true&hide_border=false" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="40"> Featured Projects 🐾
+<p align="center">
+  <a href="https://github.com/rifqaalifia/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifqaalifia&repo=your-project-1&theme=tokyonight&title_color=ff99cc&hide_border=false" />
+  </a>
+  <a href="https://github.com/rifqaalifia/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifqaalifia&repo=your-project-2&theme=tokyonight&title_color=ff99cc&hide_border=false" />
   </a>
 </p>
 
 ---
 
-## 🌌 Special Effects
+## <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="40"> Visitor Counter 😺
 <p align="center">
-  <img src="https://i.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.webp" width="350" alt="Stars Falling"/>
-  <img src="https://i.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.webp" width="350" alt="Fireworks"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/ZR6g3Dr.gif" width="600" alt="Neon Divider"/>
+  <img src="https://komarev.com/ghpvc/?username=rifqaalifia&style=for-the-badge&color=808080" alt="Profile views"/>
 </p>
 
 ---
 
-## ✨ Daily Inspiration
+## <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="40"> Cat Animation
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C9FF&center=true&width=850&lines=🌈+Be+Colorful+in+Life;🌌+Glow+in+the+Dark+Times;🚀+Keep+Learning+and+Dreaming"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Walking Cat"/>
 </p>
 
 ---
 
-<!-- Footer -->
+## <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="40"> Random Cat Fact
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:ff00ff,100:00C9FF&height=120&section=footer"/>
+  <!--START_CAT_FACT-->
+  Loading a new cat fact... 🐾
+  <!--END_CAT_FACT-->
 </p>
 
-⭐️ From [Rifqa Alifia Nurmadina](https://github.com/rifqaalifia)
+---
+
+<p align="center">
+  <a href="https://github.com/rifqaalifia">
+    <img src="https://img.shields.io/badge/✨%20Let’s%20Build%20Something%20Cool%20Together-ff66b2?style=for-the-badge" />
+  </a>
+</p>
+
+🌸✨ *“Designing with passion, coding with purpose, living with curiosity.”* ✨🌸  
