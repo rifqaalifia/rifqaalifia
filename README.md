@@ -1,31 +1,31 @@
-<!-- 🌌 Hybrid Banner -->
+<!-- 🌈🌌 Colorful + Dark Elegant Combo Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:00C9FF,100:ff00ff&height=200&section=header&text=✨%20Rifqa%20Alifia%20Nurmadina%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:ff00ff,100:302b63&height=220&section=header&text=✨%20Welcome%20to%20Rifqa's%20Universe%20✨&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 ---
 
 <h1 align="center">
-  <span style="color:#00C9FF;">👋 Hi, I'm Rifqa</span> 🌸
+  Hi there 👋 I'm <span style="color:#00C9FF">Rifqa Alifia Nurmadina</span> 🌸
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ff00ff&center=true&vCenter=true&width=800&lines=💻+Web+%26+App+Designer;🎨+UI%2FUX+Enthusiast;🚀+Tech+Explorer;🌍+Traveller;🌸+Creative+Thinker"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF61D8&center=true&vCenter=true&width=800&lines=💻+Web+%26+App+Designer;🎨+UI%2FUX+Enthusiast;🚀+Tech+Explorer;🌍+Traveller;🌈+Creative+Dreamer"/>
 </p>
 
 ---
 
-<!-- Profile Photo Glow -->
+<!-- Profile Photo -->
 <p align="center">
-  <img src="rifqa.img.jpg" alt="Rifqa Alifia Nurmadina" width="230" style="border-radius:50%; box-shadow:0 0 50px #00C9FF;"/>
+  <img src="rifqa.img.jpg" alt="Rifqa Alifia Nurmadina" width="220" style="border-radius:50%; box-shadow:0 0 40px #ff00ff, 0 0 60px #00c9ff;"/>
 </p>
 
 ---
 
 ## 🌟 About Me
-✨ Curious & creative soul who loves **IT, design & innovation**  
-🌍 Friendly and open-minded, happy to make new friends  
-🚀 Motto: **“Keep glowing, keep growing.”**  
+🌈 Curious & creative soul who loves **exploring IT & design**  
+🌌 Friendly dreamer who believes in **sharing knowledge & growing together**  
+🚀 Motto: *"Shine in colors, glow in the dark."*  
 
 ---
 
@@ -33,7 +33,7 @@
 - 💻 Web & App Design  
 - 🎭 Conflict Mediation  
 - 🎨 UI/UX & E-learning  
-- ✈️ Travelling  
+- ✈️ Travelling & Exploration  
 - 🎶 Art & Creativity  
 
 ---
@@ -57,12 +57,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqaalifia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqaalifia&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqaalifia&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifqaalifia&theme=radical" alt="Top Languages by Repo"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifqaalifia&theme=radical" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqaalifia&theme=react-dark"/>
 </p>
 
 <p align="center">
@@ -78,20 +83,10 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 - 🎨 [Creative Web Design](#)  
 - 📱 [UI/UX Mobile App](#)  
 - 📚 [E-learning Prototype](#)  
-
----
-
-## 🎖️ Fun Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/🌸-Creative-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀-Learner-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎶-Music%20Lover-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌍-Explorer-green?style=for-the-badge"/>
-</p>
 
 ---
 
@@ -106,10 +101,20 @@
 
 ---
 
-## 🌌 Visual Vibes
+## 🎶 Music Vibes
 <p align="center">
-  <img src="https://i.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.webp" width="300" alt="Fireworks"/>
-  <img src="https://i.giphy.com/media/26BRv0ThflsHCqDrG/giphy.webp" width="300" alt="Neon Wave"/>
+  <!-- Ganti link ini dengan playlist Spotify kamu -->
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+  </a>
+</p>
+
+---
+
+## 🌌 Special Effects
+<p align="center">
+  <img src="https://i.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.webp" width="350" alt="Stars Falling"/>
+  <img src="https://i.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.webp" width="350" alt="Fireworks"/>
 </p>
 
 <p align="center">
@@ -120,14 +125,14 @@
 
 ## ✨ Daily Inspiration
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C9FF&center=true&width=850&lines=🌈+Stay+Creative,+Stay+Inspired;🚀+Every+Day+is+a+New+Opportunity;🌸+Glow+Bright,+Shine+Strong"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C9FF&center=true&width=850&lines=🌈+Be+Colorful+in+Life;🌌+Glow+in+the+Dark+Times;🚀+Keep+Learning+and+Dreaming"/>
 </p>
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00C9FF,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:ff00ff,100:00C9FF&height=120&section=footer"/>
 </p>
 
 ⭐️ From [Rifqa Alifia Nurmadina](https://github.com/rifqaalifia)
