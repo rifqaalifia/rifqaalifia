@@ -1,1 +1,91 @@
-<div align="center"><a href="https://www.google.com/search?q=https://github.com/rifqaalifia"><img src="rifqa.img.jpg" alt="" width="200" style="border-radius: 50%;"></a><h1 align="center">Hello there, I'm Rifqa Alifia Nurmadina 👋</h1><p align="center"><a href="https://www.google.com/search?q=https://www.instagram.com/qa._lifiaan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></p></div><br><div align="center"><a href="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3Drifqaalifia.rifqaalifia"><img src="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3Drifqaalifia.rifqaalifia" alt="Total visitors"></a></div>About MeAs a passionate learner with an eye for innovation, I'm constantly drawn to the intersection of technology and creativity. My journey in IT is driven by a curiosity for new challenges, especially in building beautiful and intuitive digital experiences. I believe technology should empower people, and I thrive on collaborating with others to bring new ideas to life. When I'm not coding or designing, you can find me exploring new places or creating art, which helps me see the world from a different perspective. Feel free to connect—I'm always open to new friendships and collaborative projects!🎨 My PassionsAreaMy InterestsDigital Creation💻 Web Design, 📱 App Design, 🎨 UI/UX, 🏫 E-learningPersonal Growth🫂 Conflict Mediation, ✈️ Travelling, 🖼️ Art💻 My GitHub Stats<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drifqaalifia%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26border_radius%3D10" alt="GitHub Stats" width="400" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drifqaalifia%26theme%3Dbuefy%26hide_border%3Dtrue%26border_radius%3D10" alt="GitHub Streak" width="400" /></div><div align="center"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Drifqaalifia%26theme%3Dmatrix%26column%3D5" alt="GitHub Trophies" /></div><br><div align="center"><h3>Top Languages</h3><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drifqaalifia%26langs_count%3D10%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26border_radius%3D10" alt="Top Languages" /></div>🎮 A Cool Mini-Game!Looking for a little fun? While GitHub doesn't allow games directly in this file, you can click the button below to play my mini-game! It's a simple, classic game built with pure HTML, CSS, and JavaScript. Have fun!<div align="center"><a href="game.html"><img src="https://www.google.com/search?q=https://i.imgur.com/vH1N1iM.gif" alt="" width="300" /><br><br><p><img src="https://www.google.com/search?q=https://img.shields.io/badge/PLAY_THE_GAME-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="Play the game" /></p></a></div>
+<!-- Banner -->
+<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
+<h3 align="center">I'm Rifqa Alifia Nurmadina 🌸 | Passionate Learner & Creative Explorer</h3>
+
+<!-- Profile Photo -->
+<p align="center">
+  <img src="rifqa.img.jpg" alt="Rifqa Alifia Nurmadina" width="200" style="border-radius:50%;"/>
+</p>
+
+---
+
+## 🌟 About Me
+💡 Curious soul who loves exploring new things about **IT, design, and innovation**.  
+🌍 Friendly & open-minded — I enjoy connecting with people, sharing ideas, and growing together.  
+🚀 Always looking forward to learn, create, and make a positive impact!  
+
+---
+
+## 🎨 Interests & Passions
+- 🎨 Web & App Design  
+- 🎭 Conflict Mediation  
+- 🖌️ UI/UX & E-learning  
+- ✈️ Travelling & Adventure  
+- 🎶 Art & Creativity  
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/qa._lifiaan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ GitHub Stats & Activity
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rifqaalifia&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqaalifia&show_icons=true&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqaalifia&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifqaalifia&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqaalifia&theme=react-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rifqaalifia&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode,python,java&theme=light"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+🌟 Highlighting my proudest works:  
+- 🔹 [Project A](#) - *Creative Web Design*  
+- 🔹 [Project B](#) - *UI/UX Prototype*  
+- 🔹 [Project C](#) - *E-learning Concept*  
+
+---
+
+## 🎮 Fun Corner
+<p align="center">🕹️ Take a break and play a little game right here on my profile!</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=🚀+Try+this+Snake+Game+on+my+profile!"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafnixg/rafnixg/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌈 Quote of the Day
+> *"Creativity is intelligence having fun."*  
+
+---
+
+⭐️ From [Rifqa Alifia Nurmadina](https://github.com/rifqaalifia)
